@@ -3,13 +3,8 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-So no need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ TAMILROCKERS ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ
+ <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
